@@ -9,7 +9,7 @@ and open the template in the editor.
     <meta charset="UTF-8">
     <title></title>
   </head>
-  <body>ssss sdfsd
+  <body>html test
     <?php
     // put your code here
     echo "test";
