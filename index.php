@@ -12,6 +12,7 @@ and open the template in the editor.
   <body>ssss sdfsd
     <?php
     // put your code here
+    echo "test";
     ?>
   </body>
 </html>
